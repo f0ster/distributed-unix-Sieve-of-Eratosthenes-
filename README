@@ -1,0 +1,6 @@
+Code from colleague; there are some bugs:
+
+My Program main.cc runs and sends and receives data great.  it also finds primes.  However, it also finds a hand full of number that are not prime for some reason yet to be unknown.
+
+I had to right this program of several times because of binding problems. 
+

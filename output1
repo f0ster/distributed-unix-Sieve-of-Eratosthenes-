@@ -1,0 +1,544 @@
+Is this the Main application? 
+Enter port number to listen on (between 1500 and 65000): Enter server host name or IP address: Enter server port number: Enter Upper Bound :
+3
+Waiting for TCP connection on port 1222 ...
+  connected to 137.28.5.101:43136
+received 0
+received 1
+received 0
+received 3
+received 0
+received 5
+received 6
+received 7
+received 0
+received 9
+received 10
+received 11
+received 12
+received 13
+received 14
+received 15
+received 0
+received 17
+received 18
+received 19
+received 20
+received 21
+received 22
+received 23
+received 24
+received 25
+received 26
+received 27
+received 28
+received 29
+prime 2
+Prime[i] : 2
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+this is the new temp3
+this is temp : 6
+this is temp : 12
+this is temp : 24
+this is temp : 48
+data.cs.uwec.edu
+Sending some data...
+Waiting for TCP connection on port 1222 ...
+  connected to 137.28.5.101:43137
+received 0
+received 1
+received 0
+received 0
+received 0
+received 0
+received 0
+received 7
+received 0
+received 9
+received 0
+received 11
+received 0
+received 13
+received 14
+received 15
+received 0
+received 17
+received 18
+received 19
+received 0
+received 21
+received 22
+received 23
+received 0
+received 25
+received 26
+received 27
+received 28
+received 29
+prime 5
+Prime[i] : 2
+Prime[i] : 5
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+this is the new temp7
+this is temp : 14
+this is temp : 28
+this is temp : 56
+data.cs.uwec.edu
+Sending some data...
+Waiting for TCP connection on port 1222 ...
+  connected to 137.28.5.101:43138
+received 0
+received 1
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 11
+received 0
+received 13
+received 0
+received 15
+received 0
+received 17
+received 0
+received 19
+received 0
+received 21
+received 22
+received 23
+received 0
+received 25
+received 26
+received 27
+received 0
+received 29
+prime 9
+Prime[i] : 2
+Prime[i] : 5
+Prime[i] : 9
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+this is the new temp11
+this is temp : 22
+this is temp : 44
+data.cs.uwec.edu
+Sending some data...
+Waiting for TCP connection on port 1222 ...
+  connected to 137.28.5.101:43139
+received 0
+received 1
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 15
+received 0
+received 17
+received 0
+received 19
+received 0
+received 21
+received 0
+received 23
+received 0
+received 25
+received 0
+received 27
+received 0
+received 29
+prime 13
+Prime[i] : 2
+Prime[i] : 5
+Prime[i] : 9
+Prime[i] : 13
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+this is the new temp15
+this is temp : 30
+data.cs.uwec.edu
+Sending some data...
+Waiting for TCP connection on port 1222 ...
+  connected to 137.28.5.101:43140
+received 0
+received 1
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 19
+received 0
+received 21
+received 0
+received 23
+received 0
+received 25
+received 0
+received 27
+received 0
+received 29
+prime 17
+Prime[i] : 2
+Prime[i] : 5
+Prime[i] : 9
+Prime[i] : 13
+Prime[i] : 17
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+this is the new temp19
+this is temp : 38
+data.cs.uwec.edu
+Sending some data...
+Waiting for TCP connection on port 1222 ...
+  connected to 137.28.5.101:43141
+received 0
+received 1
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 23
+received 0
+received 25
+received 0
+received 27
+received 0
+received 29
+prime 21
+Prime[i] : 2
+Prime[i] : 5
+Prime[i] : 9
+Prime[i] : 13
+Prime[i] : 17
+Prime[i] : 21
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+this is the new temp23
+this is temp : 46
+data.cs.uwec.edu
+Sending some data...
+Waiting for TCP connection on port 1222 ...
+  connected to 137.28.5.101:43142
+received 0
+received 1
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 27
+received 0
+received 29
+prime 25
+Prime[i] : 2
+Prime[i] : 5
+Prime[i] : 9
+Prime[i] : 13
+Prime[i] : 17
+Prime[i] : 21
+Prime[i] : 25
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+this is the new temp27
+this is temp : 54
+data.cs.uwec.edu
+Sending some data...
+Waiting for TCP connection on port 1222 ...
+  connected to 137.28.5.101:43143
+received 0
+received 1
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+received 0
+prime 29
+Prime[i] : 2
+Prime[i] : 5
+Prime[i] : 9
+Prime[i] : 13
+Prime[i] : 17
+Prime[i] : 21
+Prime[i] : 25
+Prime[i] : 29
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+Prime[i] : 0
+data.cs.uwec.edu
+Sending some data...
+exit()
